@@ -1,10 +1,7 @@
-<br clear="both">
 
 <h2 align="center">👨‍💻 Fullstack Developer | 🎨 Creative Problem-Solver | 🌱 Continuous Learner</h2>
 
 ###
-
-<br clear="both">
 
 <h4 align="center">Passionate about merging creativity with technology, I discovered my love for coding while immersed in the world of 3D animation.<br>With a diverse background spanning technology, customer service, and team leadership roles, <br>I bring a unique blend of technical prowess and interpersonal skills to the table.</h4>
 
