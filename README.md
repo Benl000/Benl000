@@ -59,10 +59,10 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: center;">
-    <img height="200" style="margin-right: 10px;" src="https://cdnb.artstation.com/p/assets/images/images/012/473/385/large/ben-lutenberg-mainframe.jpg?1534965993" />
-    <img height="200" style="margin-right: 10px;" src="https://cdna.artstation.com/p/assets/images/images/012/473/182/large/ben-lutenberg-boy-tt-00000.jpg?1534965331" />
-    <img height="200" src="https://cdna.artstation.com/p/assets/images/images/012/474/476/large/ben-lutenberg-pinball-tt-00000.jpg?1534969973" />
+<div style="display: flex;">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/012/473/385/large/ben-lutenberg-mainframe.jpg?1534965993" onclick="window.open('https://www.artstation.com/benlutenberg', '_blank')" style="cursor: pointer;" />
+  <img src="https://cdna.artstation.com/p/assets/images/images/012/473/182/large/ben-lutenberg-boy-tt-00000.jpg?1534965331" onclick="window.open('https://www.artstation.com/benlutenberg', '_blank')" style="cursor: pointer;" />
+  <img src="https://cdna.artstation.com/p/assets/images/images/012/474/476/large/ben-lutenberg-pinball-tt-00000.jpg?1534969973" onclick="window.open('https://www.artstation.com/benlutenberg', '_blank')" style="cursor: pointer;" />
 </div>
 
 ###
