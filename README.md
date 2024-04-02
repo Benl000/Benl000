@@ -59,10 +59,17 @@
 
 ###
 
-<div align="center" >
-  <img height="200" src="https://cdnb.artstation.com/p/assets/images/images/012/473/385/large/ben-lutenberg-mainframe.jpg?1534965993"  alt="my artwork" />
-  <img height="200" src="https://cdna.artstation.com/p/assets/images/images/012/473/182/large/ben-lutenberg-boy-tt-00000.jpg?1534965331"  alt="my artwork" />
-  <img height="200" src="https://cdna.artstation.com/p/assets/images/images/012/474/476/large/ben-lutenberg-pinball-tt-00000.jpg?1534969973"  alt="my artwork" />
+<div align="center" style="display: flex; justify-content: center;">
+  <div>
+    <img height="200" src="https://cdnb.artstation.com/p/assets/images/images/012/473/385/large/ben-lutenberg-mainframe.jpg?1534965993"  />
+  </div>
+  <div>
+    <img height="200" src="https://cdna.artstation.com/p/assets/images/images/012/473/182/large/ben-lutenberg-boy-tt-00000.jpg?1534965331"  />
+  </div>
+  <div>
+    <img height="200" src="https://cdna.artstation.com/p/assets/images/images/012/474/476/large/ben-lutenberg-pinball-tt-00000.jpg?1534969973"  />
+  </div>
 </div>
+
 
 ###
