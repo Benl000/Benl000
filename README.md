@@ -1,4 +1,4 @@
-  <img src="https://cdnb.artstation.com/p/assets/images/images/012/473/385/large/ben-lutenberg-mainframe.jpg?1534965993" onclick="window.open('https://www.artstation.com/benlutenberg', '_blank')" style="cursor: pointer; display: inline-block; width: 33.33%; box-sizing: border-box; padding: 10px; text-align: center;" />
+  <img src="https://cdnb.artstation.com/p/assets/images/images/012/473/385/large/ben-lutenberg-mainframe.jpg?1534965993"/>
 
 ###
 
@@ -59,14 +59,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
 </div>
-
-###
-
-  <div style="margin-right: 10px;">
-    <img height="200" src="https://cdna.artstation.com/p/assets/images/images/012/473/182/large/ben-lutenberg-boy-tt-00000.jpg?1534965331" />
-  </div>
-  <div>
-    <img height="200" src="https://cdna.artstation.com/p/assets/images/images/012/474/476/large/ben-lutenberg-pinball-tt-00000.jpg?1534969973" />
-  </div>
 
 ###
