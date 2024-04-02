@@ -1,6 +1,3 @@
-  <img src="https://cdnb.artstation.com/p/assets/images/images/012/473/385/large/ben-lutenberg-mainframe.jpg?1534965993"/>
-
-###
 
 <h2 align="center">👨‍💻 Fullstack Developer | 🎨 Creative Problem-Solver | 🌱 Continuous Learner</h2>
 
@@ -59,5 +56,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
 </div>
+
+###
+
+  <img src="https://cdnb.artstation.com/p/assets/images/images/012/473/385/large/ben-lutenberg-mainframe.jpg?1534965993"/>
 
 ###
